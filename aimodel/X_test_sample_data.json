@@ -1,0 +1,14 @@
+{
+    "event_name_click": 0,
+    "event_name_first_visit": 0,
+    "event_name_page_view": 0,
+    "event_name_scroll": 0,
+    "event_name_session_start": 0,
+    "event_name_user_engagement": 0,
+    "event_name_video_progress": 0,
+    "event_name_video_start": 0,
+    "event_name_view_item": 0,
+    "event_name_view_search_results": 0,
+    "page_category_page": 0,
+    "page_category_search": 0
+}

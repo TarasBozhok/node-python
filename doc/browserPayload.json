@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "1740410051376",
+    "action_type": "page_view",
+    "page_name": "Customer Behavior Demo"
+  },
+  {
+    "timestamp": "1740410062185",
+    "action_type": "page_view",
+    "page_name": "30 French Cocktail Blini - France | Real Gourmet Food"
+  },
+  {
+    "timestamp": "1740410068590",
+    "action_type": "click"
+  },
+  {
+    "timestamp": "1740410073544",
+    "action_type": "scroll"
+  },
+  {
+    "timestamp": "1740410074645",
+    "action_type": "scroll"
+  }
+]
